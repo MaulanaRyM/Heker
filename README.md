@@ -1,4 +1,4 @@
-![Optional Text](../master/Screenshot_1.png)
+![Optional Text](../master/img/Screenshot_1.png)
 # Absolutely Euy
 Hack Satelit with your father :v
 
