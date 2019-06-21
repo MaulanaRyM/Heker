@@ -8,5 +8,6 @@ $apt update
 $pkg install git
 $pkg install python2
 ```
-
+Fungsi Tools Ini ? Buat Geser Satelit :v
+santai lurr gk usah tegang..
 Kasih Bintang Slurr
